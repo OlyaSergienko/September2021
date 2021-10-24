@@ -1,0 +1,21 @@
+.w500{
+    width: 500px;
+}
+.first{
+    height: 150px;
+    background: aquamarine;
+    margin-bottom: 5px;
+}
+.second{
+    height: 300px;
+    display: flex;
+}
+.a{
+    width: 80%;
+    background: #c8c8dc;
+    margin-right: 5px;
+}
+.b{
+    width: 20%;
+    background: cornflowerblue;
+}
