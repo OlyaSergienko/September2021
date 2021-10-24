@@ -1,5 +1,6 @@
 .w700{
     width: 700px;
+    box-sizing: border-box;
 }
 .first{
     height: 200px;
@@ -44,4 +45,26 @@
 }
 .footer{
     background: aquamarine;
+}
+.m5{
+    margin-bottom: 5px;
+}
+.basic{
+    height: 300px;
+    display: flex;
+}
+.menu{
+    width: 30%;
+    background: lightcoral;
+    margin-right: 5px;
+}
+.posts{
+    width: 70%;
+}
+.post{
+    height: 148px;
+    background: lightgrey;
+}
+.m4{
+    margin-bottom: 4px;
 }
