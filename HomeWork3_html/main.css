@@ -31,7 +31,16 @@
     background: blue;
 }
 .third{
-
+    height: 300px;
+    display: flex;
+}
+.main{
+    width: 70%;
+    background: cadetblue;
+}
+.aside{
+    width: 30%;
+    background: rgba(138, 43, 226, 0.44);
 }
 .footer{
     background: aquamarine;
