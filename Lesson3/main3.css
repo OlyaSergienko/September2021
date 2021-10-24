@@ -1,0 +1,24 @@
+.wrap{
+    background: lightgrey;
+    width: 1600px;
+    height: 700px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: nowrap;
+    /*column-gap: 5%;*/
+}
+
+.box{
+    flex-basis: 300px;
+    height: 200px;
+}
+.a{
+    background: silver;
+    /*flex-grow: 1;*/
+}
+.b{
+    background: cornflowerblue;
+    /*flex-grow: 2;*/
+    /*align-self: flex-end;*/
+}
