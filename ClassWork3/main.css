@@ -1,0 +1,35 @@
+.w700{
+    width: 700px;
+}
+.mb10{
+    margin-bottom: 10px;
+}
+.mr10{
+    margin-right: 10px;
+}
+.bg{
+    background: darkgray;
+}
+.first{
+    height: 150px;
+}
+.second{
+    display: flex;
+}
+.hor{
+    width: 70%;
+}
+.vert{
+    width: 30%;
+    height: 310px;
+}
+.b{
+    height: 48.4%;
+}
+.c{
+    height: 48.4%;
+    display: flex;
+}
+.blocks{
+    width: 33%;
+}
