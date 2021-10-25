@@ -10,10 +10,17 @@
 .bg{
     background: darkgray;
 }
+.bg1{
+    background: cornflowerblue;
+}
+.bg2{
+    background: darkgray;
+}
 .first{
     height: 150px;
 }
 .second{
+    height: 300px;
     display: flex;
 }
 .hor{
@@ -21,7 +28,6 @@
 }
 .vert{
     width: 30%;
-    height: 310px;
 }
 .b{
     height: 48.4%;
@@ -31,5 +37,22 @@
     display: flex;
 }
 .blocks{
+    width: 33%;
+}
+.up{
+    height: 450px;
+    display: flex;
+}
+.home_about{
+    width: 50%;
+}
+.center{
+    height: 200px;
+}
+.down{
+    height: 180px;
+    display: flex;
+}
+.cabobs{
     width: 33%;
 }
