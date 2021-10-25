@@ -68,3 +68,23 @@
 .m4{
     margin-bottom: 4px;
 }
+
+.widgets{
+    height: 200px;
+    background: cadetblue;
+}
+.bigWidgets{
+    display: flex;
+}
+.bigWidget{
+    width: 33%;
+    height: 200px;
+    background: cornflowerblue;
+}
+.mr5{
+    margin-right: 5px;
+}
+.contact{
+    height: 400px;
+    background: cadetblue;
+}
